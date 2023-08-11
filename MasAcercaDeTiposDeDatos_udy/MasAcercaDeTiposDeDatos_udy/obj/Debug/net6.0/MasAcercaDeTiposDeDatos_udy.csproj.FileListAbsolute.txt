@@ -1,0 +1,15 @@
+C:\Users\agomezpa\source\repos\MasAcercaDeTiposDeDatos_udy\MasAcercaDeTiposDeDatos_udy\bin\Debug\net6.0\MasAcercaDeTiposDeDatos_udy.exe
+C:\Users\agomezpa\source\repos\MasAcercaDeTiposDeDatos_udy\MasAcercaDeTiposDeDatos_udy\bin\Debug\net6.0\MasAcercaDeTiposDeDatos_udy.deps.json
+C:\Users\agomezpa\source\repos\MasAcercaDeTiposDeDatos_udy\MasAcercaDeTiposDeDatos_udy\bin\Debug\net6.0\MasAcercaDeTiposDeDatos_udy.runtimeconfig.json
+C:\Users\agomezpa\source\repos\MasAcercaDeTiposDeDatos_udy\MasAcercaDeTiposDeDatos_udy\bin\Debug\net6.0\MasAcercaDeTiposDeDatos_udy.dll
+C:\Users\agomezpa\source\repos\MasAcercaDeTiposDeDatos_udy\MasAcercaDeTiposDeDatos_udy\bin\Debug\net6.0\MasAcercaDeTiposDeDatos_udy.pdb
+C:\Users\agomezpa\source\repos\MasAcercaDeTiposDeDatos_udy\MasAcercaDeTiposDeDatos_udy\obj\Debug\net6.0\MasAcercaDeTiposDeDatos_udy.csproj.AssemblyReference.cache
+C:\Users\agomezpa\source\repos\MasAcercaDeTiposDeDatos_udy\MasAcercaDeTiposDeDatos_udy\obj\Debug\net6.0\MasAcercaDeTiposDeDatos_udy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agomezpa\source\repos\MasAcercaDeTiposDeDatos_udy\MasAcercaDeTiposDeDatos_udy\obj\Debug\net6.0\MasAcercaDeTiposDeDatos_udy.AssemblyInfoInputs.cache
+C:\Users\agomezpa\source\repos\MasAcercaDeTiposDeDatos_udy\MasAcercaDeTiposDeDatos_udy\obj\Debug\net6.0\MasAcercaDeTiposDeDatos_udy.AssemblyInfo.cs
+C:\Users\agomezpa\source\repos\MasAcercaDeTiposDeDatos_udy\MasAcercaDeTiposDeDatos_udy\obj\Debug\net6.0\MasAcercaDeTiposDeDatos_udy.csproj.CoreCompileInputs.cache
+C:\Users\agomezpa\source\repos\MasAcercaDeTiposDeDatos_udy\MasAcercaDeTiposDeDatos_udy\obj\Debug\net6.0\MasAcercaDeTiposDeDatos_udy.dll
+C:\Users\agomezpa\source\repos\MasAcercaDeTiposDeDatos_udy\MasAcercaDeTiposDeDatos_udy\obj\Debug\net6.0\refint\MasAcercaDeTiposDeDatos_udy.dll
+C:\Users\agomezpa\source\repos\MasAcercaDeTiposDeDatos_udy\MasAcercaDeTiposDeDatos_udy\obj\Debug\net6.0\MasAcercaDeTiposDeDatos_udy.pdb
+C:\Users\agomezpa\source\repos\MasAcercaDeTiposDeDatos_udy\MasAcercaDeTiposDeDatos_udy\obj\Debug\net6.0\MasAcercaDeTiposDeDatos_udy.genruntimeconfig.cache
+C:\Users\agomezpa\source\repos\MasAcercaDeTiposDeDatos_udy\MasAcercaDeTiposDeDatos_udy\obj\Debug\net6.0\ref\MasAcercaDeTiposDeDatos_udy.dll

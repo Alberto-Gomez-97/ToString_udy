@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MasAcercaDeTiposDeDatos_udy/1.0.0": {
+        "runtime": {
+          "MasAcercaDeTiposDeDatos_udy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MasAcercaDeTiposDeDatos_udy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
